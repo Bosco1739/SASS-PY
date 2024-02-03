@@ -3,4 +3,3 @@ discord.py
 Flask
 motor
 panda
-discord@^2.3.2
